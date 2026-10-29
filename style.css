@@ -1,0 +1,14 @@
+*{margin:0;padding:0;box-sizing:border-box;font-family:'Poppins',sans-serif}
+body{background:#fdf8ff;color:#2d1b36}
+nav{display:flex;justify-content:space-between;padding:18px 5%;background:#fff;box-shadow:0 2px 20px #0001}
+.logo{font-weight:800;font-size:22px;color:#6d28d9}.logo span{color:#a855f7}
+.hero{text-align:center;padding:60px 5%;background:linear-gradient(135deg,#faf5ff,#fdf2f8)}
+.hero h1{font-size:32px;color:#4c1d95}.hero h1 span{color:#a855f7}
+.hero p{max-width:600px;margin:14px auto;color:#6b7280}
+.form-sec{max-width:700px;margin:20px auto;background:#fff;padding:28px;border-radius:22px;box-shadow:0 12px 36px #0001}
+label{font-weight:600;font-size:13px;display:block;margin-top:14px}
+input,textarea{width:100%;padding:13px;margin-top:6px;border:1.5px solid #e9d5ff;border-radius:12px}
+.submit{width:100%;padding:15px;background:linear-gradient(90deg,#7c3aed,#a855f7);color:#fff;border:0;border-radius:12px;font-weight:800;margin-top:18px}
+.proof{margin-top:12px;background:#f5f3ff;padding:10px;border-radius:10px;font-size:10px;text-align:center;color:#6b7280}
+footer{background:#4c1d95;color:#e9d5ff;padding:26px;text-align:center;margin-top:40px}
+#msg{margin-top:14px;padding:14px;border-radius:12px;font-weight:600;display:none;text-align:center}
